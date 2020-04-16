@@ -1,2 +1,23 @@
-<div style="width:100px;height:50px;background: #2C3E50;"></div>
-$\color{#2C3E50}{##2C3E50}$
+<div style="width:100px;height:50px;background:#2C3E50;"></div>
+<div style="width:100px;height:50px;background:#6495ed;"></div>
+<div style="width:100px;height:50px;background:#b0c4de;"></div>
+<div style="width:100px;height:50px;background:#b0929f;"></div>
+<div style="width:100px;height:50px;background:#9D2933;"></div>
+<div style="width:100px;height:50px;background:#D24D57;"></div>
+<div style="width:100px;height:50px;background:#EAF2D3;"></div>
+<div style="width:100px;height:50px;background:#26A65B;"></div>
+<div style="width:100px;height:50px;background:#EB7347;"></div>
+<div style="width:100px;height:50px;background:#84AF9B;"></div>
+<div style="width:100px;height:50px;background:#FC9D99;"></div>
+<div style="width:100px;height:50px;background:#AEDD81;"></div>
+<div style="width:100px;height:50px;background:#00CCFF;"></div>
+<div style="width:100px;height:50px;background:#D0D0D0;"></div>
+<div style="width:100px;height:50px;background:#FFA07A;"></div>
+<div style="width:100px;height:50px;background:#FFB6C1;"></div>
+<div style="width:100px;height:50px;background:#D3D3D3;"></div>
+<div style="width:100px;height:50px;background:#90EE90;"></div>
+<div style="width:100px;height:50px;background:#E0FFFF;"></div>
+<div style="width:100px;height:50px;background:#F08080;"></div>
+<div style="width:100px;height:50px;background:#ADD8E6;"></div>
+<div style="width:100px;height:50px;background:#F0E68C;"></div>
+<div style="width:100px;height:50px;background:#E6E6FA;"></div>

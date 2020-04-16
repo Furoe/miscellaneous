@@ -1,1 +1,2 @@
 <div style="width:100px;height:50px;background: #2C3E50;"></div>
+$\color{#2C3E50}{##2C3E50}$
